@@ -15,8 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {t('learn-react')}
         </a>
+        <p>
+          {t('hello-world')}
+        </p>
       </header>
     </div>
   );
