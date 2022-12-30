@@ -1,0 +1,13 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/locales"
+    ],
+    "i18n-ally.extract.ignoredByFiles": {
+        "src\\App.js": [
+            "noopener noreferrer",
+            "noopener noreferrer"
+        ]
+    },
+    "i18n-ally.keystyle": "flat",
+    "i18n-ally.displayLanguage": "es"
+}
